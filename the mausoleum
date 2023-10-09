@@ -1,0 +1,133 @@
+<html>
+    <head>
+        <title> The Mausoleum </title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    </head>
+    <body>
+
+        <nav class="nav-extended">
+            <div class="nav-wrapper">
+                <div class="nav-wrapper purple lighten-2">
+                <a href="#" class="brand-logo"> The 7 Wonders of the World </a>
+                </div>
+              
+              </ul>
+            </div>
+            <div class="nav-content">
+                <div class="nav-wrapper purple lighten-2">
+                <ul class="tabs tabs-transparent">
+                <li class="tab"><a href="#home">Home</a></li>
+                <li class="tab"><a class="active" href="chichen itza.html">The Mausoleum</a></li>
+                <li class="tab"><a href="petra jordan.html">Hanging Gardens</a></li>
+                <li class="tab"><a href="christ the redeemer.html">Christ the Redeemer</a></li>
+                <li class="tab"><a href="colosseum.html">Colosseum</a></li>
+                <li class="tab"><a href="machu pichu.html">Machu Pichu</a></li>
+                <li class="tab"><a href="#test4">Great Wall of China</a></li>
+                <li class="tab"><a href="#test4">Taj Mahal</a></li>
+                </div>
+              </ul>
+            </div>
+
+            
+            <div>
+            
+                <ul>
+                  <li class="waves-effect waves-light btn"> 
+                  <a href="materialize working.html"> 
+                  <i class="material-icons left #fafafa grey-text text-lighten-5">arrow_back
+                  </i> 
+      
+                  <span class="#fafafa grey-text text-lighten-5"> back </span>
+                  </a></li>
+                </ul>
+                 </div>
+              
+      
+      
+                 <div class="card-panel grey lighten-5">
+                    <h1> <span class="black-text">Mausoleum at Halicarnassus</span> </h1>
+                  <div class="image">
+                    <img class="responsive-img" src="AdobeStock_69699107.jpeg" alt="Mausoleum" class="center">
+                    
+                  </div>
+                  <div class="text">
+                    <span class="black-text"><p class="flow-text"> 
+                        This Wonder is located in Halicarnassus, Turkey, and is the tomb of Mausolus, who was the ruler of Caria. 
+                        The Mausoleum was designed by Pythius and Satyros. 
+                        The sides of the Mausoleum are intricately decorated with the Greek artists Scopas, Bryaxis, Leochares, and Timotheus. 
+                        It is speculated that an earthquake destroyed the Mausoleum sometime between the 11th and the 15th century CE. 
+                        However, one may see fragments of the Mausoleum being preserved in the British Museum. 
+                    </p></span>
+                    <style>p {text-align: center;}</style>
+                  </div>
+                </div>
+                
+                <div class="card-panel grey lighten-5">
+                    <div class="image">
+                        <img class="responsive-img" src="AdobeStock_613137694.jpeg" alt="Mausoleum" class="center">
+                      
+                    </div>
+
+                <table>
+                    <thead>
+                      <tr>
+                          <th>British Museum</th>
+                          <th></th>
+                          <th></th>
+                      </tr>
+                    </thead>
+            
+                    <tbody>
+                      <tr>
+                        <td>Opening Times</td>
+                        <td>Daily</td>
+                        <td>10 am to 5 pm</td>
+                      </tr>
+                      <tr>
+                        <td></td>
+                        <td>Fridays</td>
+                        <td>closes 8:30 pm</td>
+                      </tr>
+                      <tr>
+                        <td>Fee</td>
+                        <td>Free</td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                        <td>Address</td>
+                        <td>Great Russell Street
+                            London WC1B 3DG
+                            </td>
+                        <td></td>
+                      </tr>
+                    </tbody>
+                  </table>
+      
+      
+                </style>
+                 <style>img {
+                   max-width: 60%;
+                   max: height 60%;
+                 } </style>
+                 
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    </body>
+</html>

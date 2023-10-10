@@ -2,7 +2,8 @@
     <head>
         <title> Lighthouse of Alexandria </title>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
 
     </head>
     <body>
@@ -18,14 +19,14 @@
             <div class="nav-content">
                 <div class="nav-wrapper purple lighten-2">
                 <ul class="tabs tabs-transparent">
-                <li class="tab"><a href="#home">Home</a></li>
-                <li class="tab"><a href="chichen itza.html">Mausoleum</a></li>
-                <li class="tab"><a href="petra jordan.html">Hanging Gardens</a></li>
-                <li class="tab"><a class="active" href="christ the redeemer.html">Lighthouse of Alexandria</a></li>
-                <li class="tab"><a href="colosseum.html">Colosseum</a></li>
-                <li class="tab"><a href="machu pichu.html">Machu Pichu</a></li>
-                <li class="tab"><a href="#test4">Great Wall of China</a></li>
-                <li class="tab"><a href="#test4">Taj Mahal</a></li>
+                    <li class="tab"><a href="#home">Home</a></li>
+                    <li class="tab"><a  href="the mausoleum.html">The Mausoleum</a></li>
+                    <li class="tab"><a href="petra jordan.html">Hanging Gardens</a></li>
+                    <li class="tab"><a class="active" href="christ the redeemer.html">Lighthouse of Alexandria</a></li>
+                    <li class="tab"><a href="colosseum.html">Statue of Zeus</a></li>
+                    <li class="tab"><a href="machu pichu.html">Temple of Artemis</a></li>
+                    <li class="tab"><a  href="Colossus of Rhodes.html">Colossus of Rhodes</a></li>
+                    <li class="tab"><a href="#test4">Pyramid of Giza</a></li>
                 </div>
               </ul>
             </div>
@@ -49,7 +50,20 @@
             </div>
 
 
-
+            <footer class="page-footer">
+                <div class="container">
+                  <div class="row">
+                    <div class="col l6 s12">
+                      <h5 class="white-text">References</h5>
+                      <p class="grey-text text-lighten-4">
+                        Britannica, The Editors of Encyclopaedia.
+                         "lighthouse of Alexandria". 
+                        Encyclopedia Britannica, 22 Jun. 2023,
+                         https://www.britannica.com/topic/lighthouse-of-Alexandria.  </p>
+                    </div>
+    
+                  </div>
+                </div>
 
 
 

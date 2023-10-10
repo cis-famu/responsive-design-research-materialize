@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title> Hanging Gardens </title>
+        <title> Hanging Garden of Babylon </title>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
@@ -19,13 +19,13 @@
                 <div class="nav-wrapper purple lighten-2">
                 <ul class="tabs tabs-transparent">
                 <li class="tab"><a href="#home">Home</a></li>
-                <li class="tab"><a href="chichen itza.html">Chichén itzá</a></li>
+                <li class="tab"><a href="the mausoleum.html">Mausoleum</a></li>
                 <li class="tab"><a class="active" href="petra jordan.html">Hanging Gardens</a></li>
-                <li class="tab"><a href="christ the redeemer.html">Christ the Redeemer</a></li>
-                <li class="tab"><a href="colosseum.html">Colosseum</a></li>
-                <li class="tab"><a href="machu pichu.html">Machu Pichu</a></li>
-                <li class="tab"><a href="#test4">Great Wall of China</a></li>
-                <li class="tab"><a href="#test4">Taj Mahal</a></li>
+                <li class="tab"><a href="christ the redeemer.html">Lighthouse of Alexandria</a></li>
+                <li class="tab"><a href="colosseum.html">Statue of Zeus</a></li>
+                <li class="tab"><a href="machu pichu.html">Temple of Artemis</a></li>
+                <li class="tab"><a href="Colossus of Rhodes.html">Colossus of Rhodes</a></li>
+                <li class="tab"><a href="#test4">Pyramid of Giza</a></li>
                 </div>
               </ul>
             </div>

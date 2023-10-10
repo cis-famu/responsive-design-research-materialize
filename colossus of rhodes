@@ -70,11 +70,11 @@
                 <div class="row">
                   <div class="col l6 s12">
                     <h5 class="white-text">References</h5>
-                    <p class="grey-text text-lighten-4">
+                    <span class="grey-text text-lighten-4"><p class="flow-text">
                       Britannica, The Editors of Encyclopaedia.
                        "Colossus of Rhodes". 
                       Encyclopedia Britannica, 18 Aug. 2023, 
-                      https://www.britannica.com/topic/Colossus-of-Rhodes.  </p>
+                      https://www.britannica.com/topic/Colossus-of-Rhodes.  </p></span>
                   </div>
   
                 </div>

@@ -70,40 +70,40 @@
                       
                     </div>
 
-                <table>
-                    <thead>
-                      <tr>
-                          <th>British Museum</th>
-                          <th></th>
-                          <th></th>
-                      </tr>
-                    </thead>
-            
-                    <tbody>
-                      <tr>
-                        <td>Opening Times</td>
-                        <td>Daily</td>
-                        <td>10 am to 5 pm</td>
-                      </tr>
-                      <tr>
-                        <td></td>
-                        <td>Fridays</td>
-                        <td>closes 8:30 pm</td>
-                      </tr>
-                      <tr>
-                        <td>Fee</td>
-                        <td>Free</td>
-                        <td></td>
-                      </tr>
-                      <tr>
-                        <td>Address</td>
-                        <td>Great Russell Street
-                            London WC1B 3DG
-                            </td>
-                        <td></td>
-                      </tr>
-                    </tbody>
-                  </table>
+                    <table>
+                      <thead>
+                        <tr>
+                            <th class="flow-text">British Museum</th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                      </thead>
+              
+                      <tbody>
+                        <tr>
+                          <td class="flow-text">Opening Times</td>
+                          <td class="flow-text">Daily</td>
+                          <td class="flow-text">10 am to 5 pm</td>
+                        </tr>
+                        <tr>
+                          <td></td>
+                          <td class="flow-text">Fridays</td>
+                          <td class="flow-text">closes 8:30 pm</td>
+                        </tr>
+                        <tr>
+                          <td class="flow-text">Fee</td>
+                          <td class="flow-text">Free</td>
+                          <td></td>
+                        </tr>
+                        <tr>
+                          <td class="flow-text">Address</td>
+                          <td class="flow-text">Great Russell Street
+                              London WC1B 3DG
+                              </td>
+                          <td></td>
+                        </tr>
+                      </tbody>
+                    </table>
       
       
                

@@ -1,0 +1,227 @@
+<!doctype html>
+<html>
+
+    <style>
+    .padding{
+        padding 35px
+    }
+    </style>
+
+    <head>
+        <padding>
+        <title> The Worlds 7 Wonders </title>
+    </head>
+    
+    <br>
+    <br>
+  
+<style>
+    p{
+        background-color: #FFFFFF
+        color: Black;
+        margin:30px
+    }
+</style>
+
+        <h1><center>
+ <p style=font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif> 
+
+    <div class="dropdown">
+        <span>
+        <b>
+Explore the 7 Wonders
+</b>
+        </span>
+       
+        <body>
+        <div class="dropdown-content">
+    
+ <div><p class="">
+ <a href file:///Users/aubrey/Desktop/7%20wonders%20.html>
+Home</a>
+ </p>
+    </p>
+ </div>
+    </div>     
+</div>
+
+<br>
+
+</h1>  
+  <br>
+</body>
+
+<br>
+<br>
+
+
+
+<body>
+    <center>
+    <div class="header">
+&emsp;&emsp;&emsp;&emsp;&ensp;
+        <a href file:///Users/aubrey/Desktop/giza.html>
+            Great Pyramids</a>
+        </body>
+
+        &emsp;&emsp;&emsp;
+
+        <a href file:///Users/aubrey/Desktop/Mausoleum%20at%20Halicarnassus.html> 
+            Mausoleum</a>
+
+&emsp;&emsp;&emsp;
+
+            <a href https://www.tutorialspoint.com/materialize/materialize_quick_guide.htm>
+           Temple of artemis</a>
+
+&emsp;&emsp;&emsp;
+
+        
+            <a href file:///Users/aubrey/Desktop/babylon.html>
+       The Hanging Gardens</a>
+
+&emsp;&emsp;&emsp;
+
+       <a href https://www.twinkl.com/teaching-wiki/seven-wonders-of-the-world#:~:text=The%20Seven%20Wonders%20of%20the%20World%20are%20a%20group%20of,The%20Great%20Wall%20of%20China.>
+    Statue of Zues</a>
+
+&emsp;&emsp;&emsp;
+
+    <a href https://www.twinkl.com/teaching-wiki/seven-wonders-of-the-world#:~:text=The%20Seven%20Wonders%20of%20the%20World%20are%20a%20group%20of,The%20Great%20Wall%20of%20China.>
+    Colossus</a>
+
+&emsp;&emsp;&emsp;
+
+    <a href https://www.twinkl.com/teaching-wiki/seven-wonders-of-the-world#:~:text=The%20Seven%20Wonders%20of%20the%20World%20are%20a%20group%20of,The%20Great%20Wall%20of%20China.>
+    Lighthouse</a>
+&emsp; &ensp;   
+</center>
+</div>
+</body>
+
+
+<br>
+<br>
+<hr>
+
+<br>
+<body>
+
+<h2><center>
+
+ <p style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif">
+    we've all heard about the worlds 7 wonders, but how much do we know about them?
+ </center>
+
+    
+
+<p style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;"
+<br>
+
+The seven ancient wonders of the world were magnificient man-made landmarks from ancient civilizations. The firsst known of these wonders
+dates back to 2nd and 1st BC.
+<br>
+This site will explore the 7 wonders and their location, history, cultural significance, and travlel information for those interested in visiting.
+<br><br><br><br><br><br><br><br>
+
+<img src="https://imgur.com/gNioyJ7" height="200">
+
+<img src="https://imgur.com/pShXZPz" height="200">
+
+<img src="https://imgur.com/HjWM9qZ" height="200">
+
+<img src ="https://imgur.com/a/Hhnev0Q" height="200"> 
+
+<img src="https://imgur.com/a/9IhRjFD" height="200">
+
+<img src="https://imgur.com/a/r5HGPUL" height="200">
+
+<img src="https://imgur.com/a/MhFuXze" height="200">
+
+
+<center>
+<p style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">
+    It's important to remember that except for the Great Pyramid of Giza, the other wonders no longer exist in their original form. However, visiting their locations still offers a rich historical and cultural experience as you explore the remnants and related archaeological sites.
+</h2>
+</center>
+</body>
+
+<br>
+<br>
+
+
+
+
+<style>
+a {
+    border: 1px solid #007bff;
+    background: #007bff;
+    padding: 10px;
+    color:white;
+    text-decoration: none;
+    border-radius: :6px;
+}
+a:hover{
+    background:white;
+    color:#007bff; 
+}
+</style>
+
+
+<style>
+ b {
+    border: 1px solid black;
+    background: white;
+    padding: 10px;
+    color:black;
+    text-decoration: none;
+    border-radius: :6px;
+}
+b:hover{
+    background:black;
+    color:white; 
+}
+</style>
+
+
+<style>
+    .dropdown{
+        position: relative;
+        display: inline-block;
+    }
+
+    .dropdown-content{
+        display:none;
+        postion:absolute;
+background-color:antiquewhite
+min-width:160px;
+box-shadow:0px 8px 16px 0px
+rgba (0,0,0,0.2);
+padding:12px 16px;
+z-index:1;
+    }
+
+    .dropdown:hover .dropdown-content{
+        display: block;
+    }
+</style>
+
+
+<style>
+     .Homepage{
+     border: 1px solid white
+    background: #007bff;
+    padding: 10px;
+    color:Black;
+    text-decoration: none;
+    border-radius: :6px;
+}
+.Homepage:hover{
+    background:black;
+    color:white; 
+}
+</style>
+
+
+</body>
+</html>

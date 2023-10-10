@@ -70,10 +70,10 @@
                 <div class="row">
                   <div class="col l6 s12">
                     <h5 class="white-text">References</h5>
-                    <p class="grey-text text-lighten-4">
+                    <span class="grey-text text-lighten-4"><p class="flow-text">
                       Britannica, The Editors of Encyclopaedia. 
                       "Temple of Artemis". Encyclopedia Britannica, 28 Aug. 2023,
-                       </p>
+                       </p></span>
                   </div>
   
                 </div>
